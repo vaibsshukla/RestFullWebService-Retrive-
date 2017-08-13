@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+.col-cus{
+}
+.col-id{
+	width:5%;
+}
+.col-cus h4{
+	font-size: 12px;
+	font-weight: bolder;
+	text-transform:uppercase;
+}
+.row-nav{
+	width: 100%;
+}
+.col-nav{
+}
+.col-nav input[type="text"] {
+	height:30px;
+	width:50px;
+}
+.nav-container{
+	background-color: red;
+	width:300px;
+	height:auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+.row-indexes{
+	background-color: threedface;
+	width:50%;
+	height:20px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	overflow: hidden;
+}
+.col-indexes{
+	background-color:  menutext;
+	width:10px;
+	height:20px;
+	float:left;
+	display: block;
+}
